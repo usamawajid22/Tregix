@@ -1,12 +1,1 @@
-=> LinearLayout is a view group that aligns all children in a single direction, vertically or horizontally. 
-=>RelativeLayout is a view group that displays child views in relative positions. A RelativeLayout is a very powerful utility for designing a user interface because it can eliminate nested view groups and keep your layout hierarchy flat, which improves performance.
-=>RecyclerView and its associated classes and interfaces help you to design and implement a dynamic user interface that runs efficiently.
-=>ListView is a view group that displays a list of scrollable items. The list items are automatically inserted to the list using an Adapter that pulls content from a source such as an array or database query and converts each item result into a view that's placed into the list.
-=>GridView is a ViewGroup that displays items in a two-dimensional, scrollable grid. The grid items are automatically inserted to the layout using a ListAdapter.
-=>dsnckjdsbbdjsabcxas
-lsdnjwsndksnbdjw w
-sw
-sw
-swlwqdldwdqmd
-dmlwlldklwmd.ssm,xakmxass
-sannxdw,sxklnwsxdm'qww
+this is Dev branch.
